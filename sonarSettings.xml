@@ -1,0 +1,14 @@
+<application>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="hostUrl" value="http://sonarqube.worldfirst.local" />
+          <option name="name" value="Sonarqube" />
+          <option name="passwordChanged" value="true" />
+          <option name="user" value="david.harper" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>

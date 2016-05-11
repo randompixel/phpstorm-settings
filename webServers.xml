@@ -1,0 +1,33 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8497f04c-4802-490a-9d6e-82a8e7aaf99b" name="Queue Manager" url="http://queue-manager.worldfirst.local">
+        <fileTransfer mountedRoot="$USER_HOME$/PHPStormProjects/queue-manager" accessType="MOUNT" />
+      </webServer>
+      <webServer id="29064e32-2d57-47d6-b319-e1fb98081c2f" name="Back Office 1" url="http://back-office-1.worldfirst.local">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="a968364a-4055-48b0-949b-639bd21fcfa6" name="Hosted - Message Gateway" url="http://message-gateway.dhdevel.worldfirst.local">
+        <fileTransfer host="dhdev.worldfirst.local" port="2230" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/" accessType="SFTP" passphrase="dfdfdfc1df93df9cdf9cdf9adf9bdf98" username="dave" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f8a2598e-222d-4d36-8e0e-2e391bfa5eab" name="Hosted - Back Office 1" url="http://bo.dhdevel-1.worldfirst.local">
+        <fileTransfer host="dhdev.worldfirst.local" port="2230" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www" accessType="SFTP" passphrase="dfdfdfc1df93df9cdf9cdf9adf9bdf98" username="dave" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="fac1f691-3412-46f4-a882-3bd4b9f4d78f" name="Hosted - Back Office 2" url="http://bo.dhdevel-2.worldfirst.local">
+        <fileTransfer host="dhdev.worldfirst.local" port="2230" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www" accessType="SFTP" passphrase="dfdfdfc1df93df9cdf9cdf9adf9bdf98" username="dave" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
