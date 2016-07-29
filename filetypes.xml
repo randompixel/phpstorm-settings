@@ -23,6 +23,7 @@
       <mapping pattern="core-java" type="YAML" />
       <mapping pattern="atlassian-bitbucket-servers" type="YAML" />
       <mapping pattern="atlassian-bamboo-server-hosts" type="YAML_EX" />
+      <mapping pattern="env-development" type="YAML_EX" />
       <mapping pattern="sonarqube-server-hosts" type="YAML_EX" />
     </extensionMap>
   </component>
