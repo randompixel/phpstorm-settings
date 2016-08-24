@@ -12,6 +12,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="schedule-c0c95570d5c0a60e3c5661aa4001a39c" type="PLAIN_TEXT" />
       <mapping pattern="env-integration" type="PLAIN_TEXT" />
+      <mapping pattern="vfmh-dev" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="ini-example" type="PLAIN_TEXT" />
