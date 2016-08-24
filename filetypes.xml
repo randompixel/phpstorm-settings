@@ -20,6 +20,7 @@
       <mapping ext="cfg-example" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping pattern="vfmh-app-servers" type="YAML_EX" />
+      <mapping pattern="env-staging" type="YAML_EX" />
       <mapping pattern="staging" type="YAML_EX" />
     </extensionMap>
   </component>
