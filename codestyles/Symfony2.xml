@@ -1,4 +1,5 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Symfony2">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <PHPCodeStyleSettings>
     <option name="CONCAT_SPACES" value="false" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
