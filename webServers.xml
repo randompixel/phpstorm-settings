@@ -8,26 +8,32 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="a968364a-4055-48b0-949b-639bd21fcfa6" name="Hosted - Message Gateway" url="http://message-gateway.dhdevel.worldfirst.local">
-        <fileTransfer host="dhdev.worldfirst.local" port="2230" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/" accessType="SFTP" passphrase="dfdfdfc1df93df9cdf9cdf9adf9bdf98" username="dave" keyPair="true">
+        <fileTransfer host="dhdev.worldfirst.local" port="2230" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="2230" />
         </fileTransfer>
       </webServer>
       <webServer id="f8a2598e-222d-4d36-8e0e-2e391bfa5eab" name="Hosted - Back Office 1" url="http://bo.dhdevel-1.worldfirst.local">
-        <fileTransfer host="dhdev.worldfirst.local" port="2230" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www" accessType="SFTP" passphrase="dfdfdfc1df93df9cdf9cdf9adf9bdf98" username="dave" keyPair="true">
+        <fileTransfer host="dhdev.worldfirst.local" port="2230" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="2230" />
         </fileTransfer>
       </webServer>
       <webServer id="fac1f691-3412-46f4-a882-3bd4b9f4d78f" name="Hosted - Back Office 2" url="http://bo.dhdevel-2.worldfirst.local">
-        <fileTransfer host="dhdev.worldfirst.local" port="2230" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www" accessType="SFTP" passphrase="dfdfdfc1df93df9cdf9cdf9adf9bdf98" username="dave" keyPair="true">
+        <fileTransfer host="dhdev.worldfirst.local" port="2230" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="2230" />
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAABgB9Trus68wiwim5VwZ368QvEU6eGebiNziNU7jBzu4bh6tQYtcnyYApz4XVDYnJov7jaxqy5Oo3JjxY8/T2QYWeUYtE1KHiIafwdow9xCdtLcSLu6RgbjFUxg6scdUz8NDkdP2pDhc7QKleA6zC1pW8qH5o87y5NpiEwN8fnU30yjXLd0VSkJ0z/IHgfiScPJFhfj4mLjPpBIRWe1zmZKQfBi+Mwau+5cD/dQwSBC6BiEcCmOyZkdFXFrbyPqnhuYOK5Pu9pdOAhKdy7bjW+ZPH3dTXkY5fu74ym/oo9NXQ8iI69BSnXxOfOzZGFLXprizFjpmzwLR+vPWLVoEMfK0mfSUTvOUbosA4ju6o8/Tp5KMLF5N23AwrUfURFOzZ1j2EPcqhAYoXzKtK5ZnZpC7dkUUgII14o1MKlSnbfBVhV6ysZWKctCIeSm9oTLwDjHgtRe+X22Ty+Rzmu4rTum2ZtINCqGMwrllZ3d+x7alpEEp+40tRnnXMie+zcV+ZdV9sJbE+sZDULb3okRCe/HEY=</data>
   </component>
 </application>
