@@ -24,6 +24,7 @@
       <mapping pattern="vfmh-app-servers" type="YAML_EX" />
       <mapping pattern="env-staging" type="YAML_EX" />
       <mapping pattern="env-production" type="YAML_EX" />
+      <mapping pattern="production" type="YAML_EX" />
       <mapping pattern="staging" type="YAML_EX" />
     </extensionMap>
   </component>
