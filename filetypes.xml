@@ -22,6 +22,7 @@
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern="php-basic" type="YAML_EX" />
       <mapping pattern="vfmh-app-servers" type="YAML_EX" />
+      <mapping pattern="phpfpm-servers" type="YAML_EX" />
       <mapping pattern="env-staging" type="YAML_EX" />
       <mapping pattern="env-production" type="YAML_EX" />
       <mapping pattern="production" type="YAML_EX" />
