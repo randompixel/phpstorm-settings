@@ -1,33 +1,32 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockerfile" type="Docker file" />
       <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping pattern="run" type="PHP" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="version" type="PLAIN_TEXT" />
-      <mapping pattern="env-integration" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="schedule-c0c95570d5c0a60e3c5661aa4001a39c" type="PLAIN_TEXT" />
-      <mapping pattern="schedule-6eefd4af31b82effab34b1f0ac226962" type="PLAIN_TEXT" />
-      <mapping pattern="vfmh-dev" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
+      <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern="schedule-6eefd4af31b82effab34b1f0ac226962" type="PLAIN_TEXT" />
+      <mapping pattern="schedule-c0c95570d5c0a60e3c5661aa4001a39c" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="vfmh-dev" type="PLAIN_TEXT" />
+      <mapping pattern="env-integration" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="ini-example" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="cfg-example" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping pattern="php-basic" type="YAML_EX" />
-      <mapping pattern="vfmh-app-servers" type="YAML_EX" />
-      <mapping pattern="phpfpm-servers" type="YAML_EX" />
-      <mapping pattern="env-staging" type="YAML_EX" />
+      <mapping ext="cfg" type="YAML_EX" />
       <mapping pattern="env-production" type="YAML_EX" />
+      <mapping pattern="env-staging" type="YAML_EX" />
+      <mapping pattern="php-basic" type="YAML_EX" />
+      <mapping pattern="phpfpm-servers" type="YAML_EX" />
       <mapping pattern="production" type="YAML_EX" />
       <mapping pattern="staging" type="YAML_EX" />
-      <mapping ext="cfg" type="YAML_EX" />
+      <mapping pattern="vfmh-app-servers" type="YAML_EX" />
     </extensionMap>
   </component>
 </application>
