@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../public - [back-office-2]'" />
-    <option name="defaultScopeName" value="Directory '.../public - [back-office-2]'" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../public - [back-office-2]'" />
+    <option name="SEARCH_SCOPE" value="selection" />
   </component>
 </application>
