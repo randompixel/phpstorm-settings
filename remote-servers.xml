@@ -2,7 +2,6 @@
   <component name="RemoteServers">
     <remote-server name="Docker" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://localhost:8099" />
         <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
       </configuration>
     </remote-server>
