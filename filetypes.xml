@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="run" type="PHP" />
       <mapping pattern="schedule-6eefd4af31b82effab34b1f0ac226962" type="PLAIN_TEXT" />
+      <mapping pattern="jirarun" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
