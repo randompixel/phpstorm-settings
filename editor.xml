@@ -1,7 +1,14 @@
 <application>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="PHP" value="true" />
+      </map>
+    </option>
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
   <component name="SqlEditorOptions">
