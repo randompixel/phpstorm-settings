@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="run" type="PHP" />
       <mapping pattern="schedule-6eefd4af31b82effab34b1f0ac226962" type="PLAIN_TEXT" />
       <mapping pattern="jirarun" type="PLAIN_TEXT" />
