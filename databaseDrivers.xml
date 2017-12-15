@@ -9,9 +9,10 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="azure.ms">
-      <artifact name="SQL Server" use="true" />
+      <artifact name="SQL Server" use="true" version="6.0.8112.100" />
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
+      <option name="auto-commit" value="true" />
     </driver>
     <driver id="oracle">
       <artifact name="Oracle" use="true" />
