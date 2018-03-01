@@ -6,8 +6,8 @@
       <mapping pattern="SnowSyncCommand" type="PHP" />
       <mapping pattern="run" type="PHP" />
       <mapping pattern="schedule-6eefd4af31b82effab34b1f0ac226962" type="PLAIN_TEXT" />
-      <mapping pattern="env-integration" type="PLAIN_TEXT" />
       <mapping pattern="jirarun" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern=".env-test" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
@@ -15,14 +15,15 @@
       <mapping pattern="schedule-c0c95570d5c0a60e3c5661aa4001a39c" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="env-integration" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping ext="docker" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="ini-example" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="cfg-example" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern="EditMatterBudgetTaskCode" type="Vue.js" />
