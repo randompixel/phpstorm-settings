@@ -30,6 +30,7 @@
       <mapping ext="docker" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="cfg-example" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping pattern="EditMatterBudgetTaskCode" type="Vue.js" />
       <mapping pattern="npe-matter-budget-tracker" type="YAML_EX" />
