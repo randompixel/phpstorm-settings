@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="pre-commit" type="Bash" />
       <mapping pattern="Dockerfile-build" type="Dockerfile" />
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
@@ -11,7 +10,7 @@
       <mapping pattern="run" type="PHP" />
       <mapping pattern="vfmh-dev" type="PLAIN_TEXT" />
       <mapping pattern="pre-push" type="PLAIN_TEXT" />
-      <mapping pattern="env-integration" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="schedule-c0c95570d5c0a60e3c5661aa4001a39c" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="b9416efefa7d8e6949a429c05ebbbc827b35f994" type="PLAIN_TEXT" />
@@ -25,10 +24,10 @@
       <mapping pattern="post-merge" type="PLAIN_TEXT" />
       <mapping pattern="post-checkout" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="prepare-commit-msg" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern="prepare-commit-msg" type="PLAIN_TEXT" />
       <mapping pattern=".env-azure" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="env-integration" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="docker" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
@@ -60,6 +59,7 @@
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="properties" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="pre-commit" type="Bash" />
     </extensionMap>
   </component>
 </application>
