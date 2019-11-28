@@ -1,0 +1,5 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <option id="vuejs.show.names.for.all.args" value="true" />
+  </component>
+</application>
