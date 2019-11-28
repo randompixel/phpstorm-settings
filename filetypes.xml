@@ -10,12 +10,12 @@
       <mapping pattern="run" type="PHP" />
       <mapping pattern="vfmh-dev" type="PLAIN_TEXT" />
       <mapping pattern="pre-push" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="env-integration" type="PLAIN_TEXT" />
+      <mapping pattern="jirarun" type="PLAIN_TEXT" />
       <mapping pattern="schedule-c0c95570d5c0a60e3c5661aa4001a39c" type="PLAIN_TEXT" />
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="b9416efefa7d8e6949a429c05ebbbc827b35f994" type="PLAIN_TEXT" />
       <mapping pattern="wgqNkjI5FHg9BqRR36gCGK0atsZZIlsDVVqp8iCB" type="PLAIN_TEXT" />
-      <mapping pattern="jirarun" type="PLAIN_TEXT" />
       <mapping pattern=".env-test" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping pattern="schedule-6eefd4af31b82effab34b1f0ac226962" type="PLAIN_TEXT" />
@@ -27,7 +27,7 @@
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="prepare-commit-msg" type="PLAIN_TEXT" />
       <mapping pattern=".env-azure" type="PLAIN_TEXT" />
-      <mapping pattern="env-integration" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping ext="docker" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
