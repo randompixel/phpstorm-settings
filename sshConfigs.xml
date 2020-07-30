@@ -7,6 +7,9 @@
       <sshConfig host="dhdev.worldfirst.local" id="aa6a3c09-8574-472c-a0c5-5b4761c93905" keyPath="$USER_HOME$/.ssh/id_rsa" port="2230" customName="Hosted - Message Gateway" nameFormat="CUSTOM" />
       <sshConfig host="dhdev.worldfirst.local" id="6b769700-d0f3-4503-a0ee-3270d3805b0f" keyPath="$USER_HOME$/.ssh/id_rsa" port="2230" customName="Hosted - Back Office 1" nameFormat="CUSTOM" />
       <sshConfig host="dhdev.worldfirst.local" id="75fe2373-ab78-404f-84b0-807856e77fa3" keyPath="$USER_HOME$/.ssh/id_rsa" port="2230" customName="Hosted - Back Office 2" nameFormat="CUSTOM" />
+      <sshConfig host="dhdev.worldfirst.local" id="7df2d55c-1689-4592-8d8e-495bb2d95ee3" keyPath="$USER_HOME$/.ssh/id_rsa" port="2230" customName="Hosted - Message Gateway" nameFormat="CUSTOM" />
+      <sshConfig host="dhdev.worldfirst.local" id="7cd35479-ee56-4e73-a4bd-34301ffc03a7" keyPath="$USER_HOME$/.ssh/id_rsa" port="2230" customName="Hosted - Back Office 1" nameFormat="CUSTOM" />
+      <sshConfig host="dhdev.worldfirst.local" id="92518819-7e73-4256-9ec2-7fc0412f0653" keyPath="$USER_HOME$/.ssh/id_rsa" port="2230" customName="Hosted - Back Office 2" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
